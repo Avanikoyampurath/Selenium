@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Exclude group wip">
+    <groups>
+        <run>
+            <exclude name="wip" />
+        </run>
+    </groups>
+    <test name="exclude wip">
+        <classes>
+            <class name="com.automation.testng.LoginTest" />
+            <class name="com.automation.testng.HomeTest" />
+            <class name="com.automation.testng.ProfileTest" />
+        </classes>
+    </test>
+</suite>

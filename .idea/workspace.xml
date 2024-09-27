@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5afed52-3d5d-4cb7-8f00-aa8bd3c25cae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/stackroute/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/selenium/ActionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/selenium/DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/selenium/EbayAutomation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/selenium/FileDownload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/selenium/HandlingAlerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/selenium/Iframe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/selenium/JSExec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/selenium/Minted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/selenium/OrangeHRMProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/selenium/SauceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/selenium/SearchFlight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/selenium/TakeScreenshotEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/selenium/UploadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/selenium/Waiting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/testng/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/testng/DataDrivenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/testng/HomeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/testng/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/testng/ParameterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/testng/ProfileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/testng/PropertyFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/testng/ReadFromTextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/testng/ReadingExcelData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/testng/SoftAssertExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data/credential.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/runner/excludeGroup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/runner/includeGroups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/runner/only3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/runner/smokeTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/runner/testAll.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2izhnsOBc4EX10C3AsRTUO4tQpb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ActionClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DragAndDrop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EbayAutomation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HandlingAlerts.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Iframe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JSExec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Minted.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrangeHRMProject.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PropertyFileReader.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReadFromTextFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReadingExcelData.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SauceDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchFlight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TakeScreenshotEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UploadFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.firstTask.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/UST_java/selenium/src/test/resources/runner/excludeGroup.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/UST_java/selenium/src/test/resources/runner/includeGroups.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/UST_java/selenium/src/test/resources/runner/only3.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/UST_java/selenium/src/test/resources/runner/smokeTest.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/UST_java/selenium/src/test/resources/runner/testAll.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/UST_java/selenium/src/test/resources/runner/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/UST_java/selenium/test-output/testng-failed.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DataDrivenTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.failure.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.success.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SoftAssertExample.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.runner.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/UST_java/selenium/src/main/java/in/stackroute/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.LoginTest.success">
+    <configuration name="PropertyFileReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.automation.testng.PropertyFileReader" />
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadFromTextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.automation.testng.ReadFromTextFile" />
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadingExcelData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.automation.testng.ReadingExcelData" />
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/UST_java/selenium/test-output/testng-failed.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/test-output/testng-failed.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.success" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.testng.LoginTest" />
+      <option name="METHOD_NAME" value="success" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PropertyFileReader" />
+      <item itemvalue="Application.ReadFromTextFile" />
+      <item itemvalue="Application.ReadingExcelData" />
+      <item itemvalue="TestNG.C:/UST_java/selenium/test-output/testng-failed.xml" />
+      <item itemvalue="TestNG.LoginTest.success" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTest.success" />
+        <item itemvalue="Application.PropertyFileReader" />
+        <item itemvalue="Application.ReadFromTextFile" />
+        <item itemvalue="Application.ReadingExcelData" />
+        <item itemvalue="TestNG.C:/UST_java/selenium/test-output/testng-failed.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5afed52-3d5d-4cb7-8f00-aa8bd3c25cae" name="Changes" comment="" />
+      <created>1720499487080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720499487080</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/in/stackroute/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
